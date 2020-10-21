@@ -1,5 +1,10 @@
-# gui_projekt2
-# AntiPlague Game
-this is projekt which one i made for gui classes.
-its a game where you have to save population from COVID-19.
+ <h1>gui_projekt2</h1>
+<h2>AntiPlague Game</h2>
+
+<p>this is projekt which one i made for gui classes.<br>
+its a game where you have to save population from COVID-19.<br>
+</p>
+
+<h2>Technologies</h2>
+
 
